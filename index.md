@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/amudhamanoj/Scratch-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Why Games?
+Kids are naturally curious and many games are naturally problem solving.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Many games contain and encourage STEM.
 
-### Markdown
+-Analytical and problem-solving skills – games make it fun
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Encourage student to be interested in how the world functions
 
-```markdown
-Syntax highlighted code block
+-Encourage students in learning how technology works
 
-# Header 1
-## Header 2
-### Header 3
+-How technology can develop and affect human life, health and well being
 
-- Bulleted
-- List
+-Develop math skills
 
-1. Numbered
-2. List
+-Critical thinking
 
-**Bold** and _Italic_ and `Code` text
+-Independent learning
 
-[Link](url) and ![Image](src)
-```
+-Communication and collaboration
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-Digital literacy
 
-### Jekyll Themes
+-Creativity
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amudhamanoj/Scratch-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-Self-reflection
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hi I am a Freelance Software Developer
+Game Design And Instructor
+Researched demographics and statistics relating to game to
+determine type of gameplay to use.
+Prepared and revised initial game sketches using two- and
+three-dimensional graphical design software.
+Blogger
+Content Editing, Drafting, Proofreading And Copy Editor. 
